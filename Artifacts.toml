@@ -1,0 +1,145 @@
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "c6de011707b0a926e3c269489f0de6f2fa16be89"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "dcaadf945bd18145001eb5bdeda0c762b2f0f792acc530e1498779507d6aa715"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "e2446bcf6750ffa2670199f1b6a7d0a2f6d2c74a"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "8259615e42a3068fc088a11a300ed0dc01067b89a5dbb6c6039e85df3b0c2c85"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-gnu-julia_version+1.11.1.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "0653a5470ef816aa040d2fb8c03de110988b06d6"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "ec9f8d8a83c90db6a2e293b6c3db964a2d0f2c80f50ea661c0c9f936a749366b"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-gnu-julia_version+1.12.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "971dc32d0fc11b2b054e14230157e83bbb10f082"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "8c22f8cede9373176ad6dd3df50d9aefa0b6c70dc8bd2885436a11098f3afc8c"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-gnu-julia_version+1.13.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "5686d69eab527b1046cb1a087bfe14c988345461"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "5b9eab59ddff23abce27591b8ba4fd8a18133b1bd128de01741e10daca44e0b8"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-gnu-julia_version+1.14.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "1d8302df3159da5f7b20af22e8fb99b219393700"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "512d8892888638a39c9d9afe396d83776ff418b6e9243d66e36c34e4b9ed0c4c"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-musl-julia_version+1.10.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "29a73ff128008ccf1e7f34cb1583a8b5b150605d"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "cc5e02fba089ed0d46811e8c7b8bea0eaaaa9ddb592315a965aa681f4eacd9b4"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-musl-julia_version+1.11.1.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "ef94659b9770ec4e582f082982d2efae64e8f69d"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "c6a958a6e9da834059c4a1333c4caa92a62e0d3d32d6fd0b742a4ef0cf474eb8"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-musl-julia_version+1.12.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "b4fdd2a86fa9f9fbc7ff03cc8af13e14bc9c1e96"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "79c4706aa3906aea926a2b61b1dc55e2d7ff0344d03a539be27d95fed5916688"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-musl-julia_version+1.13.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "0bb1cfe2eb522dab421f796a5b11c11b060f09d7"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[TDSControl.download]]
+    sha256 = "27379b696b996c546c65f242bd6f6992d9214afa9942211572863879a8feb8ce"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-linux-musl-julia_version+1.14.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "cdaa0529254ec2de5d73aae2e368d2caa16af0ba"
+julia_version = "1.10.0"
+os = "windows"
+
+    [[TDSControl.download]]
+    sha256 = "29997977bbbe18aa71889eb3317368a6a7ca85bc29eb702b7f5b7bc3d45b512e"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-w64-mingw32-julia_version+1.10.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "dee698f49160a02bf7b3dcb8f02ea2f4a550dc6e"
+julia_version = "1.11.1"
+os = "windows"
+
+    [[TDSControl.download]]
+    sha256 = "a22128cc078c340a5d7fbe2059cd34d9eac4360d79429f092de7627bb0c3fe28"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-w64-mingw32-julia_version+1.11.1.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "a42ed815cd7fbce5f1206beade66594d211f459c"
+julia_version = "1.12.0"
+os = "windows"
+
+    [[TDSControl.download]]
+    sha256 = "6073a521cf668d815b9c7e090847b8c89bc5a092c50647de649002d007f4d623"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-w64-mingw32-julia_version+1.12.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "0ca30e35362d3345bc4fdb13b8103467aa0b61b9"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[TDSControl.download]]
+    sha256 = "87fc15fece19ac6b5ffb3fba3a734e87e5fe6f585d3d8b982ce4496aa5e4c434"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-w64-mingw32-julia_version+1.13.0.tar.gz"
+[[TDSControl]]
+arch = "x86_64"
+git-tree-sha1 = "536e1c6c0be8c7cd4692fe6470c7a226020775bd"
+julia_version = "1.14.0"
+os = "windows"
+
+    [[TDSControl.download]]
+    sha256 = "ecb666b3a792f3eb7add1692c4844600025b9a8cd8a16430489db2bb582d8485"
+    url = "https://github.com/AppeltansPieter/TDSControl_jll.jl/releases/download/TDSControl-v0.0.1+0/TDSControl.v0.0.1.x86_64-w64-mingw32-julia_version+1.14.0.tar.gz"
